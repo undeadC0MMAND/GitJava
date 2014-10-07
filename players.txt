@@ -1,0 +1,15 @@
+Herb
+2
+3
+Marge
+4
+1
+Abner
+0
+5
+Ingmar
+4
+1
+Henrietta
+3
+2
